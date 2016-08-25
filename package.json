@@ -1,0 +1,17 @@
+{
+  "name": "cdnplz-qiniu",
+  "version": "1.0.0",
+  "description": "CDN service provider for cdnplz.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/upload.js"
+  },
+  "keywords": [
+    "cdnplz"
+  ],
+  "author": "webzhao@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "qiniu": "^6.1.11"
+  }
+}
